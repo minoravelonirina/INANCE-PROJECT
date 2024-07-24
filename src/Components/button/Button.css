@@ -1,0 +1,33 @@
+.button1 {
+    color: white;
+    padding: 2vh 3vw;
+    font-size: 1rem;
+    border-radius: 0.2rem;
+    border-style: none;
+    margin-block: 1%;
+    background-color: #ff8a1d;
+}
+
+.button1:hover {
+    border: 1px #ff8a1d;
+    color: #ff8a1d;
+    border-style:ridge;
+    background-color: transparent;
+}
+
+.button2 {
+    color: white;
+    padding: 2vh 3vw;
+    font-size: 1rem;
+    border-radius: 0.2rem;
+    border-style: none;
+    margin-block: 1%;
+    background-color: #0355cc;
+}
+
+.button2:hover {
+    border: 1px #0355cc;
+    color: #0355cc;
+    border-style:ridge;
+    background-color: transparent;
+}

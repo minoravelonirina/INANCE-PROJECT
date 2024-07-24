@@ -1,0 +1,38 @@
+.row {
+    /* border: 1px solid black; */
+    background-color: #cadcf7;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: auto;
+    padding-inline: 3vw;
+}
+
+.detail-box {
+    /* border: 1px solid black; */
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 4vh;
+    /* padding: 2.5rem; */
+    margin-block: auto;
+}
+
+.img-box {
+    /* border: 1px solid black; */
+    width: 50%;
+    height: auto;
+    text-align: center;
+}
+
+.img-box img {
+    width: 35rem;
+    height: auto;
+}
+
+.detail-box h1 {
+    font-size: 2.5rem;
+    color: #0355cc;
+}
+
